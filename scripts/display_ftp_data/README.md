@@ -18,7 +18,7 @@ A script for displaying the database contents via a web page
 
 ### JSON
 <pre><code>
-  http://192.168.0.11:3000/summary?format=json
+  http://127.0.0.1:3000/summary?format=json
 </pre></code> 
 
 
